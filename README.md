@@ -60,7 +60,7 @@ To encourage pruning, an L1 penalty is added:
 
 The histogram below shows the distribution of learned gate values:
 
-![Gate Distribution](results/gate_distribution.png)
+![Gate Distribution](gate_distribution.png)
 
 ### Interpretation:
 - Values near **0 → pruned weights**
